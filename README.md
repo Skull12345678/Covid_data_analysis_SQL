@@ -48,9 +48,6 @@ This project focuses on analyzing COVID-19 data using SQL Server to clean, explo
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Author
-[Your Name](https://github.com/your-username)
-
 ## Acknowledgments
 - Data sourced from reliable COVID-19 repositories.
 - Inspiration from data science methodologies and SQL analytics best practices.
